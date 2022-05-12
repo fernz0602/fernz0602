@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Fernando Zamora!
+- 👀 I’m interested in Web Developing and striving to become a FrontEnd Developer someday!
+- 🌱 I’m currently learning Javascript / HTML5 / CSS 
+- 💞️ I’m looking to collaborate on any projects for building websites. 
+- 📫 I can be reached at my personal icloud account || fernz0602@icloud.com
